@@ -12,20 +12,6 @@
 # files into a single `groundwork.all.js` javascript file
 
 
-# Plugins:
-
-# @codekit-append "plugins/jquery-responsiveTables.coffee"
-# @codekit-append "plugins/jquery-responsiveText.coffee"
-# @codekit-append "plugins/jquery-truncateLines.coffee"
-# @codekit-append "plugins/jquery-tooltip.coffee"
-
 # Components:
 
-# @codekit-append "components/disabled.coffee"
 # @codekit-append "components/equalizeColumns.coffee"
-# @codekit-append "components/forms.coffee"
-# @codekit-append "components/menus.coffee"
-# @codekit-append "components/modals.coffee"
-# @codekit-append "components/pagination.coffee"
-# @codekit-append "components/tabs.coffee"
-# @codekit-append "components/tiles.coffee"

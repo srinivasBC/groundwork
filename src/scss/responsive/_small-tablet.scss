@@ -148,8 +148,5 @@ $responsive: true !default;
 @if $responsive {
   @include small-tablet {
     // do not remove -- required for small-tablet helpers
-    @if $navigation-classes {
-      @include hamburger-mode(":not(.mobile)");
-    }
   }
 }

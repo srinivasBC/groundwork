@@ -1,12 +1,11 @@
 {
   "name": "GroundworkCSS",
-  "version": "2.0.0",
+  "version": "2.0.0-grid",
   "description": "GroundworkCSS is a fully responsive HTML5, CSS and Javascript toolkit created by @ghepting",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "~0.3.1",
     "grunt-contrib-coffee": "~0.7.0",
-    "grunt-contrib-jade": "~0.5.0",
     "grunt-contrib-sass": "~0.3.0",
     "grunt-contrib-compass": "~0.2.0",
     "grunt-contrib-cssmin": "~0.4.1",

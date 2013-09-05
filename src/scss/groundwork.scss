@@ -11,11 +11,5 @@
 @import "core/all-core";              // constants, defaults, mixins, breakpoints, color palette
 @import "base/all-base";              // reset, globals, grid, flexbox, helpers
 
-// components
-@import "type/all-type";              // typography, web fonts
-@import "icons/all-icons";            // font awesome icons
-@import "ui/all-ui";                  // navigation, buttons, boxes, messages, tables, tabs, forms
-@import "anim/all-animations";        // animations
-
 // responsive adjustments
 @import "responsive/all-responsive";  // responsive (helpers, desktop, ipad, small-tablet, mobile)

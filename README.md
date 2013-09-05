@@ -4,7 +4,7 @@
   alt="GroundworkCSS">
 </a>
 
-GroundworkCSS v2.0.0-wip
+GroundworkCSS v2.0.0-grid
 ====
 
 Say hello to responsive design made easy.
